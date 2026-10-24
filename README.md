@@ -1,9 +1,8 @@
 <p align="center">
-  📍 <b>Nairobi, Kenya</b> &nbsp;•&nbsp; 🟢 <b>Open to Collaborate</b>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=DABDFD&center=true&vCenter=true&width=420&lines=Hi+there%2C+I'm+Rachel+Kenyani" alt="Typing SVG" />
+</p>
+<p align="center">
+  📍 <b>Nairobi, Kenya</b> &nbsp;•&nbsp; 🟢 <b>Open to Collaborate</b>
 </p>
 
 <h3 align="center">Product Designer & Software Developer</h3>
