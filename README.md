@@ -91,7 +91,7 @@
 
 <br />
 
-> 🧵💻 **Fun Fact:** I used to be a seamstress! My first real lessons in structure and design didn't happen on a screen, they happened at a sewing machine.
+> 🧵💻 **Fun Fact:** I used to be a seamstress! My first real lessons in structure and design happened at a sewing machine😉
 
 <br />
 
