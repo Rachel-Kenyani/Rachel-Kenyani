@@ -103,5 +103,5 @@
   &nbsp;&nbsp;•&nbsp;&nbsp; 
   <a href="https://www.behance.net/rachelkenyani" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Behance</a>
   &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <a href="YOUR_ACTUAL_CV_LINK_HERE" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Resume</a>
+  <a href="https://drive.google.com/file/d/19b0auABQCRSTB2mP2rgCx5I2V1fr6Yxp/view?usp=share_link" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Resume</a>
 </p>
