@@ -103,5 +103,5 @@
   &nbsp;&nbsp;•&nbsp;&nbsp; 
   <a href="https://www.behance.net/rachelkenyani" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Behance</a>
   &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <a href="https://drive.google.com/file/d/19b0auABQCRSTB2mP2rgCx5I2V1fr6Yxp/view?usp=share_link" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Resume</a>
+  <a href="https://drive.google.com/file/d/1y64dvRYs3eDzN2hwG5xwklCVg7rJw2_A/view?usp=share_link" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Resume</a>
 </p>
