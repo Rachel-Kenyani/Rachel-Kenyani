@@ -98,7 +98,7 @@
 <p align="center">
   <a href="mailto:rachelkenyani@gmail.com" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Email Me</a> 
   &nbsp;&nbsp;•&nbsp;&nbsp; 
-  <a href="https://linkedin.com/in/rachelkenyani" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/rachel-kenyani" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">LinkedIn</a> 
   &nbsp;&nbsp;•&nbsp;&nbsp; 
   <a href="https://www.behance.net/rachelkenyani" style="font-size: 1.1em; text-decoration: none; font-weight: bold;">Behance</a>
   &nbsp;&nbsp;•&nbsp;&nbsp; 
