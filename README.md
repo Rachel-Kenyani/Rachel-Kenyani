@@ -32,7 +32,6 @@
 ## What I'm Currently Building
 - **🚧 ArithmeTick:** Human-first EdTech platform bridging digital math with offline, physical co-play.
 - **🚧 Design System AI Agent:** Automates scalable UI component libraries to seamlessly bridge the design-to-dev gap.
-- **🚧 Figma Renaming AI Agent:** DesignOps tool that enforces clean, developer-ready file structures instantly.
 - **🚧 Quiz Night:** AI-driven multi-user trivia experience built with real-time state synchronization.
 
 <br />
