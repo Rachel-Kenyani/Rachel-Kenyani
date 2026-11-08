@@ -31,8 +31,8 @@
 
 ## What I'm Currently Building
 - **🚧 ArithmeTick:** Human-first EdTech platform bridging digital math with offline, physical co-play.
-- **🚧 Design System AI Agent:** Automates scalable UI component libraries to seamlessly bridge the design-to-dev gap.
 - **🚧 Quiz Night:** AI-driven multi-user trivia experience built with real-time state synchronization.
+- **🚧 Visitor Management System:** Visitor booking and check-in platform that shows a school who is on campus, who they're seeing, and when they leave.
 
 <br />
 
